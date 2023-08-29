@@ -1,0 +1,53 @@
+﻿ID,Depth,Type,Compound,Peak_Area
+Deep 1,Deep,Profile,Condensed Hydrocarbon,280680081.1
+Deep 1,Deep,Profile,Lignin,186144059.1
+Deep 1,Deep,Profile,Lipid,4389061.126
+Deep 1,Deep,Profile,Carbohydrates,3209759.334
+Deep 1,Deep,Profile,Protein,154833564
+Deep 1,Deep,Profile,Black Carbon,1195655025
+Deep 1,Deep,Profile,Polyphenols,139578040.1
+Deep 1,Deep,Profile,Highly Unsaturated,685502049.9
+Deep 1,Deep,Profile,Unsaturated Aliphatic,137219220.5
+Deep 1,Deep,Profile,Peptides,106489881.3
+Deep 1,Deep,Profile,Sugars,334105701.2
+Deep 1,Deep,Profile,Saturated Fatty Acids,26421787.65
+Deep 1,Deep,Profile,CRAM,438111762.1
+Deep 3,Deep,Profile,Condensed Hydrocarbon,502268514.8
+Deep 3,Deep,Profile,Lignin,175938601.5
+Deep 3,Deep,Profile,Lipid,5746899.861
+Deep 3,Deep,Profile,Carbohydrates,4873012.132
+Deep 3,Deep,Profile,Protein,250545337.7
+Deep 3,Deep,Profile,Black Carbon,1302047383
+Deep 3,Deep,Profile,Polyphenols,216035281.4
+Deep 3,Deep,Profile,Highly Unsaturated,1022691654
+Deep 3,Deep,Profile,Unsaturated Aliphatic,193787248.6
+Deep 3,Deep,Profile,Peptides,168666891.4
+Deep 3,Deep,Profile,Sugars,458447542.7
+Deep 3,Deep,Profile,Saturated Fatty Acids,34365714.4
+Deep 3,Deep,Profile,CRAM,595687876.6
+Surface 1,Surface,Profile,Condensed Hydrocarbon,209205792.9
+Surface 1,Surface,Profile,Lignin,165800122.2
+Surface 1,Surface,Profile,Lipid,6112173.361
+Surface 1,Surface,Profile,Carbohydrates,5272250.766
+Surface 1,Surface,Profile,Protein,142654414.3
+Surface 1,Surface,Profile,Black Carbon,1297977483
+Surface 1,Surface,Profile,Polyphenols,101332322.7
+Surface 1,Surface,Profile,Highly Unsaturated,611463847.7
+Surface 1,Surface,Profile,Unsaturated Aliphatic,115294256.7
+Surface 1,Surface,Profile,Peptides,88443896.48
+Surface 1,Surface,Profile,Sugars,310425789.5
+Surface 1,Surface,Profile,Saturated Fatty Acids,21305991.95
+Surface 1,Surface,Profile,CRAM,405065785.7
+Surface 3,Surface,Profile,Condensed Hydrocarbon,366229272.3
+Surface 3,Surface,Profile,Lignin,166547789.6
+Surface 3,Surface,Profile,Lipid,4787061.54
+Surface 3,Surface,Profile,Carbohydrates,5684133.434
+Surface 3,Surface,Profile,Protein,138277412.8
+Surface 3,Surface,Profile,Black Carbon,1157087502
+Surface 3,Surface,Profile,Polyphenols,114512483.1
+Surface 3,Surface,Profile,Highly Unsaturated,810971193.7
+Surface 3,Surface,Profile,Unsaturated Aliphatic,118287892.2
+Surface 3,Surface,Profile,Peptides,101217312.1
+Surface 3,Surface,Profile,Sugars,163918762.9
+Surface 3,Surface,Profile,Saturated Fatty Acids,28754972.28
+Surface 3,Surface,Profile,CRAM,436073867.1

@@ -1,0 +1,257 @@
+﻿Cruise,Date,Month,ID,Depth,Amino_Acid,Conc
+36,09-Aug-18,August,5,1,Asparagine,165.13
+36,09-Aug-18,August,6,5,Asparagine,114.47
+36,09-Aug-18,August,7,10,Asparagine,153.23
+36,09-Aug-18,August,8,15,Asparagine,155.41
+36,09-Aug-18,August,9,20,Asparagine,178.28
+36,09-Aug-18,August,10,22,Asparagine,162.30
+36,09-Aug-18,August,11,23,Asparagine,186.01
+36,09-Aug-18,August,12,24,Asparagine,210.42
+36,09-Aug-18,August,5,1,Glutamic acid,138.96
+36,09-Aug-18,August,6,5,Glutamic acid,106.55
+36,09-Aug-18,August,7,10,Glutamic acid,147.61
+36,09-Aug-18,August,8,15,Glutamic acid,120.79
+36,09-Aug-18,August,9,20,Glutamic acid,161.14
+36,09-Aug-18,August,10,22,Glutamic acid,147.77
+36,09-Aug-18,August,11,23,Glutamic acid,162.50
+36,09-Aug-18,August,12,24,Glutamic acid,174.45
+36,09-Aug-18,August,5,1,Histidine,19.54
+36,09-Aug-18,August,6,5,Histidine,16.25
+36,09-Aug-18,August,7,10,Histidine,22.30
+36,09-Aug-18,August,8,15,Histidine,15.56
+36,09-Aug-18,August,9,20,Histidine,22.70
+36,09-Aug-18,August,10,22,Histidine,29.83
+36,09-Aug-18,August,11,23,Histidine,19.04
+36,09-Aug-18,August,12,24,Histidine,21.68
+36,09-Aug-18,August,5,1,Serine,159.05
+36,09-Aug-18,August,6,5,Serine,130.15
+36,09-Aug-18,August,7,10,Serine,166.67
+36,09-Aug-18,August,8,15,Serine,122.59
+36,09-Aug-18,August,9,20,Serine,153.21
+36,09-Aug-18,August,10,22,Serine,194.24
+36,09-Aug-18,August,11,23,Serine,160.84
+36,09-Aug-18,August,12,24,Serine,167.67
+36,09-Aug-18,August,5,1,Arginine,59.86
+36,09-Aug-18,August,6,5,Arginine,48.02
+36,09-Aug-18,August,7,10,Arginine,70.75
+36,09-Aug-18,August,8,15,Arginine,49.51
+36,09-Aug-18,August,9,20,Arginine,62.10
+36,09-Aug-18,August,10,22,Arginine,76.77
+36,09-Aug-18,August,11,23,Arginine,64.49
+36,09-Aug-18,August,12,24,Arginine,73.88
+36,09-Aug-18,August,5,1,Threonine,101.35
+36,09-Aug-18,August,6,5,Threonine,72.29
+36,09-Aug-18,August,7,10,Threonine,117.71
+36,09-Aug-18,August,8,15,Threonine,86.14
+36,09-Aug-18,August,9,20,Threonine,104.07
+36,09-Aug-18,August,10,22,Threonine,112.37
+36,09-Aug-18,August,11,23,Threonine,112.08
+36,09-Aug-18,August,12,24,Threonine,111.10
+36,09-Aug-18,August,5,1,Glycine,292.55
+36,09-Aug-18,August,6,5,Glycine,248.12
+36,09-Aug-18,August,7,10,Glycine,307.16
+36,09-Aug-18,August,8,15,Glycine,273.49
+36,09-Aug-18,August,9,20,Glycine,342.04
+36,09-Aug-18,August,10,22,Glycine,373.63
+36,09-Aug-18,August,11,23,Glycine,384.84
+36,09-Aug-18,August,12,24,Glycine,407.49
+36,09-Aug-18,August,5,1,β Alanine,24.22
+36,09-Aug-18,August,6,5,β Alanine,23.42
+36,09-Aug-18,August,7,10,β Alanine,25.29
+36,09-Aug-18,August,8,15,β Alanine,27.14
+36,09-Aug-18,August,9,20,β Alanine,46.26
+36,09-Aug-18,August,10,22,β Alanine,44.03
+36,09-Aug-18,August,11,23,β Alanine,41.05
+36,09-Aug-18,August,12,24,β Alanine,45.37
+36,09-Aug-18,August,5,1,Tyrptophan,23.23
+36,09-Aug-18,August,6,5,Tyrptophan,20.18
+36,09-Aug-18,August,7,10,Tyrptophan,29.28
+36,09-Aug-18,August,8,15,Tyrptophan,23.89
+36,09-Aug-18,August,9,20,Tyrptophan,26.00
+36,09-Aug-18,August,10,22,Tyrptophan,32.60
+36,09-Aug-18,August,11,23,Tyrptophan,33.80
+36,09-Aug-18,August,12,24,Tyrptophan,39.26
+36,09-Aug-18,August,5,1,Alanine,159.58
+36,09-Aug-18,August,6,5,Alanine,116.24
+36,09-Aug-18,August,7,10,Alanine,165.18
+36,09-Aug-18,August,8,15,Alanine,153.10
+36,09-Aug-18,August,9,20,Alanine,174.19
+36,09-Aug-18,August,10,22,Alanine,196.33
+36,09-Aug-18,August,11,23,Alanine,174.52
+36,09-Aug-18,August,12,24,Alanine,205.61
+36,09-Aug-18,August,5,1,GABA,8.84
+36,09-Aug-18,August,6,5,GABA,12.09
+36,09-Aug-18,August,7,10,GABA,9.02
+36,09-Aug-18,August,8,15,GABA,42.39
+36,09-Aug-18,August,9,20,GABA,10.79
+36,09-Aug-18,August,10,22,GABA,19.45
+36,09-Aug-18,August,11,23,GABA,9.91
+36,09-Aug-18,August,12,24,GABA,15.39
+36,09-Aug-18,August,5,1,Methionine,6.28
+36,09-Aug-18,August,6,5,Methionine,2.88
+36,09-Aug-18,August,7,10,Methionine,6.70
+36,09-Aug-18,August,8,15,Methionine,6.24
+36,09-Aug-18,August,9,20,Methionine,9.67
+36,09-Aug-18,August,10,22,Methionine,6.36
+36,09-Aug-18,August,11,23,Methionine,9.79
+36,09-Aug-18,August,12,24,Methionine,13.14
+36,09-Aug-18,August,5,1,Valine,62.71
+36,09-Aug-18,August,6,5,Valine,40.94
+36,09-Aug-18,August,7,10,Valine,66.07
+36,09-Aug-18,August,8,15,Valine,62.86
+36,09-Aug-18,August,9,20,Valine,74.74
+36,09-Aug-18,August,10,22,Valine,75.38
+36,09-Aug-18,August,11,23,Valine,74.07
+36,09-Aug-18,August,12,24,Valine,86.27
+36,09-Aug-18,August,5,1,Isoleucine,26.82
+36,09-Aug-18,August,6,5,Isoleucine,20.11
+36,09-Aug-18,August,7,10,Isoleucine,31.55
+36,09-Aug-18,August,8,15,Isoleucine,30.42
+36,09-Aug-18,August,9,20,Isoleucine,37.73
+36,09-Aug-18,August,10,22,Isoleucine,34.97
+36,09-Aug-18,August,11,23,Isoleucine,37.06
+36,09-Aug-18,August,12,24,Isoleucine,44.18
+36,09-Aug-18,August,5,1,Leucine,59.12
+36,09-Aug-18,August,6,5,Leucine,44.30
+36,09-Aug-18,August,7,10,Leucine,68.19
+36,09-Aug-18,August,8,15,Leucine,53.55
+36,09-Aug-18,August,9,20,Leucine,71.79
+36,09-Aug-18,August,10,22,Leucine,66.26
+36,09-Aug-18,August,11,23,Leucine,71.01
+36,09-Aug-18,August,12,24,Leucine,83.86
+36,09-Aug-18,August,5,1,Lysine,48.46
+36,09-Aug-18,August,6,5,Lysine,42.25
+36,09-Aug-18,August,7,10,Lysine,59.69
+36,09-Aug-18,August,8,15,Lysine,53.12
+36,09-Aug-18,August,9,20,Lysine,71.67
+36,09-Aug-18,August,10,22,Lysine,71.76
+36,09-Aug-18,August,11,23,Lysine,76.62
+36,09-Aug-18,August,12,24,Lysine,89.62
+39,26-Sep-18,September,5,1,Asparagine,52.89
+39,26-Sep-18,September,6,5,Asparagine,64.11
+39,26-Sep-18,September,7,10,Asparagine,78.01
+39,26-Sep-18,September,8,15,Asparagine,73.47
+39,26-Sep-18,September,9,20,Asparagine,65.19
+39,26-Sep-18,September,10,22,Asparagine,65.11
+39,26-Sep-18,September,11,23,Asparagine,71.90
+39,26-Sep-18,September,12,24,Asparagine,301.60
+39,26-Sep-18,September,5,1,Glutamic acid,49.53
+39,26-Sep-18,September,6,5,Glutamic acid,58.23
+39,26-Sep-18,September,7,10,Glutamic acid,72.33
+39,26-Sep-18,September,8,15,Glutamic acid,57.87
+39,26-Sep-18,September,9,20,Glutamic acid,60.72
+39,26-Sep-18,September,10,22,Glutamic acid,52.55
+39,26-Sep-18,September,11,23,Glutamic acid,52.98
+39,26-Sep-18,September,12,24,Glutamic acid,366.26
+39,26-Sep-18,September,5,1,Histidine,10.72
+39,26-Sep-18,September,6,5,Histidine,2.99
+39,26-Sep-18,September,7,10,Histidine,2.76
+39,26-Sep-18,September,8,15,Histidine,1.73
+39,26-Sep-18,September,9,20,Histidine,7.21
+39,26-Sep-18,September,10,22,Histidine,0.37
+39,26-Sep-18,September,11,23,Histidine,0.63
+39,26-Sep-18,September,12,24,Histidine,16.23
+39,26-Sep-18,September,5,1,Serine,81.70
+39,26-Sep-18,September,6,5,Serine,71.24
+39,26-Sep-18,September,7,10,Serine,68.15
+39,26-Sep-18,September,8,15,Serine,69.52
+39,26-Sep-18,September,9,20,Serine,67.29
+39,26-Sep-18,September,10,22,Serine,57.23
+39,26-Sep-18,September,11,23,Serine,59.01
+39,26-Sep-18,September,12,24,Serine,222.70
+39,26-Sep-18,September,5,1,Arginine,32.08
+39,26-Sep-18,September,6,5,Arginine,23.94
+39,26-Sep-18,September,7,10,Arginine,25.80
+39,26-Sep-18,September,8,15,Arginine,18.69
+39,26-Sep-18,September,9,20,Arginine,20.48
+39,26-Sep-18,September,10,22,Arginine,15.66
+39,26-Sep-18,September,11,23,Arginine,15.35
+39,26-Sep-18,September,12,24,Arginine,117.06
+39,26-Sep-18,September,5,1,Threonine,32.90
+39,26-Sep-18,September,6,5,Threonine,41.88
+39,26-Sep-18,September,7,10,Threonine,51.60
+39,26-Sep-18,September,8,15,Threonine,41.53
+39,26-Sep-18,September,9,20,Threonine,40.20
+39,26-Sep-18,September,10,22,Threonine,40.25
+39,26-Sep-18,September,11,23,Threonine,33.78
+39,26-Sep-18,September,12,24,Threonine,148.99
+39,26-Sep-18,September,5,1,Glycine,188.35
+39,26-Sep-18,September,6,5,Glycine,168.95
+39,26-Sep-18,September,7,10,Glycine,170.77
+39,26-Sep-18,September,8,15,Glycine,161.26
+39,26-Sep-18,September,9,20,Glycine,157.48
+39,26-Sep-18,September,10,22,Glycine,153.27
+39,26-Sep-18,September,11,23,Glycine,148.23
+39,26-Sep-18,September,12,24,Glycine,447.02
+39,26-Sep-18,September,5,1,β Alanine,29.22
+39,26-Sep-18,September,6,5,β Alanine,27.91
+39,26-Sep-18,September,7,10,β Alanine,27.41
+39,26-Sep-18,September,8,15,β Alanine,27.47
+39,26-Sep-18,September,9,20,β Alanine,27.02
+39,26-Sep-18,September,10,22,β Alanine,25.49
+39,26-Sep-18,September,11,23,β Alanine,26.51
+39,26-Sep-18,September,12,24,β Alanine,41.06
+39,26-Sep-18,September,5,1,Tyrptophan,9.14
+39,26-Sep-18,September,6,5,Tyrptophan,6.44
+39,26-Sep-18,September,7,10,Tyrptophan,10.39
+39,26-Sep-18,September,8,15,Tyrptophan,6.95
+39,26-Sep-18,September,9,20,Tyrptophan,7.44
+39,26-Sep-18,September,10,22,Tyrptophan,4.34
+39,26-Sep-18,September,11,23,Tyrptophan,5.00
+39,26-Sep-18,September,12,24,Tyrptophan,66.70
+39,26-Sep-18,September,5,1,Alanine,86.95
+39,26-Sep-18,September,6,5,Alanine,81.22
+39,26-Sep-18,September,7,10,Alanine,97.55
+39,26-Sep-18,September,8,15,Alanine,83.50
+39,26-Sep-18,September,9,20,Alanine,85.47
+39,26-Sep-18,September,10,22,Alanine,77.86
+39,26-Sep-18,September,11,23,Alanine,76.51
+39,26-Sep-18,September,12,24,Alanine,286.22
+39,26-Sep-18,September,5,1,GABA,5.83
+39,26-Sep-18,September,6,5,GABA,3.84
+39,26-Sep-18,September,7,10,GABA,3.23
+39,26-Sep-18,September,8,15,GABA,4.14
+39,26-Sep-18,September,9,20,GABA,4.44
+39,26-Sep-18,September,10,22,GABA,3.67
+39,26-Sep-18,September,11,23,GABA,3.26
+39,26-Sep-18,September,12,24,GABA,8.38
+39,26-Sep-18,September,5,1,Methionine,2.03
+39,26-Sep-18,September,6,5,Methionine,2.21
+39,26-Sep-18,September,7,10,Methionine,5.65
+39,26-Sep-18,September,8,15,Methionine,3.58
+39,26-Sep-18,September,9,20,Methionine,3.11
+39,26-Sep-18,September,10,22,Methionine,3.87
+39,26-Sep-18,September,11,23,Methionine,3.21
+39,26-Sep-18,September,12,24,Methionine,41.87
+39,26-Sep-18,September,5,1,Valine,16.91
+39,26-Sep-18,September,6,5,Valine,16.09
+39,26-Sep-18,September,7,10,Valine,26.73
+39,26-Sep-18,September,8,15,Valine,19.54
+39,26-Sep-18,September,9,20,Valine,18.23
+39,26-Sep-18,September,10,22,Valine,15.80
+39,26-Sep-18,September,11,23,Valine,16.73
+39,26-Sep-18,September,12,24,Valine,132.27
+39,26-Sep-18,September,5,1,Isoleucine,18.12
+39,26-Sep-18,September,6,5,Isoleucine,19.40
+39,26-Sep-18,September,7,10,Isoleucine,25.81
+39,26-Sep-18,September,8,15,Isoleucine,20.00
+39,26-Sep-18,September,9,20,Isoleucine,18.72
+39,26-Sep-18,September,10,22,Isoleucine,16.06
+39,26-Sep-18,September,11,23,Isoleucine,15.85
+39,26-Sep-18,September,12,24,Isoleucine,98.68
+39,26-Sep-18,September,5,1,Leucine,14.86
+39,26-Sep-18,September,6,5,Leucine,24.50
+39,26-Sep-18,September,7,10,Leucine,31.38
+39,26-Sep-18,September,8,15,Leucine,23.41
+39,26-Sep-18,September,9,20,Leucine,23.35
+39,26-Sep-18,September,10,22,Leucine,18.00
+39,26-Sep-18,September,11,23,Leucine,17.08
+39,26-Sep-18,September,12,24,Leucine,158.26
+39,26-Sep-18,September,5,1,Lysine,20.79
+39,26-Sep-18,September,6,5,Lysine,18.37
+39,26-Sep-18,September,7,10,Lysine,19.94
+39,26-Sep-18,September,8,15,Lysine,17.61
+39,26-Sep-18,September,9,20,Lysine,19.09
+39,26-Sep-18,September,10,22,Lysine,15.33
+39,26-Sep-18,September,11,23,Lysine,14.42
+39,26-Sep-18,September,12,24,Lysine,118.94

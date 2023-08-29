@@ -1,0 +1,49 @@
+﻿ID,Profile,Amino_Acid,Conc
+Surface,Profile,Aspartic Acid,153.05
+Deep,Profile,Aspartic Acid,180.56
+Deep,Profile,Aspartic Acid,187.05
+Surface,Profile,Glutamic acid,124.61
+Deep,Profile,Glutamic acid,150.47
+Deep,Profile,Glutamic acid,155.67
+Surface,Profile,Histidine,20.91
+Deep,Profile,Histidine,15.23
+Deep,Profile,Histidine,14.5
+Surface,Profile,Serine,139.48
+Deep,Profile,Serine,147.2
+Deep,Profile,Serine,159.87
+Surface,Profile,Arginine,56.59
+Deep,Profile,Arginine,54.74
+Deep,Profile,Arginine,64.25
+Surface,Profile,Threonine,87.89
+Deep,Profile,Threonine,95.19
+Deep,Profile,Threonine,107.8
+Surface,Profile,Glycine,254.43
+Deep,Profile,Glycine,323.68
+Deep,Profile,Glycine,369.3
+Surface,Profile,β Alanine,22.47
+Deep,Profile,β Alanine,39.56
+Deep,Profile,β Alanine,43.34
+Surface,Profile,Tyrptophan,22.76
+Deep,Profile,Tyrptophan,32.35
+Deep,Profile,Tyrptophan,37.24
+Surface,Profile,Alanine,150.2
+Deep,Profile,Alanine,165.05
+Deep,Profile,Alanine,190.27
+Surface,Profile,GABA,13.38
+Deep,Profile,GABA,16.63
+Deep,Profile,GABA,19.49
+Surface,Profile,Methionine,5.44
+Deep,Profile,Methionine,11.84
+Deep,Profile,Methionine,14.82
+Surface,Profile,Valine,55.32
+Deep,Profile,Valine,67.77
+Deep,Profile,Valine,78.77
+Surface,Profile,Isoleucine,29.47
+Deep,Profile,Isoleucine,38.35
+Deep,Profile,Isoleucine,45.23
+Surface,Profile,Leucine,55.31
+Deep,Profile,Leucine,69.27
+Deep,Profile,Leucine,81.61
+Surface,Profile,Lysine,41.37
+Deep,Profile,Lysine,66.58
+Deep,Profile,Lysine,78.83

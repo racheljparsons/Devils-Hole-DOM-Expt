@@ -1,0 +1,222 @@
+﻿ID,Treatment,Bottle,Timepoint,Time,Day,Type,Compound,Peak_Area
+Deep 1,S/D,Deep,T0,0,Day 0,Expt,Black Carbon,1195655025
+Deep 2,D/S,Deep,T0,0,Day 0,Expt,Black Carbon,1487460003
+Deep 3,S/D,Deep,T0,0,Day 0,Expt,Black Carbon,1302047383
+Surface 1,S/S,Surface,T0,0,Day 0,Expt,Black Carbon,1297977483
+Surface 3,S/S,Surface,T0,0,Day 0,Expt,Black Carbon,1157087502
+A8,S/S,A,T8,5.8,Day 6,Expt,Black Carbon,3011407994
+B8,S/S,B,T8,5.8,Day 6,Expt,Black Carbon,1994748803
+C8,S/D,C,T8,5.8,Day 6,Expt,Black Carbon,1185875207
+D8,S/D,D,T8,5.8,Day 6,Expt,Black Carbon,1570017224
+E8,D/S,E,T8,5.8,Day 6,Expt,Black Carbon,1375223692
+F8,D/S,F,T8,5.8,Day 6,Expt,Black Carbon,1566217791
+A13,S/S,A,T13,20.84,Day 21,Expt,Black Carbon,2730507045
+B13,S/S,B,T13,20.84,Day 21,Expt,Black Carbon,2126056639
+C13,S/D,C,T13,20.84,Day 21,Expt,Black Carbon,2711191336
+D13,S/D,D,T13,20.84,Day 21,Expt,Black Carbon,1316310580
+E13,D/S,E,T13,20.84,Day 21,Expt,Black Carbon,1356881828
+F13,D/S,F,T13,20.84,Day 21,Expt,Black Carbon,1508389680
+Deep 1,S/D,Deep,T0,0,Day 0,Expt,Carbohydrates,3209759.334
+Deep 2,D/S,Deep,T0,0,Day 0,Expt,Carbohydrates,2171102.932
+Deep 3,S/D,Deep,T0,0,Day 0,Expt,Carbohydrates,4873012.132
+Surface 1,S/S,Surface,T0,0,Day 0,Expt,Carbohydrates,5272250.766
+Surface 3,S/S,Surface,T0,0,Day 0,Expt,Carbohydrates,5684133.434
+A8,S/S,A,T8,5.8,Day 6,Expt,Carbohydrates,7356408.833
+B8,S/S,B,T8,5.8,Day 6,Expt,Carbohydrates,14177061.65
+C8,S/D,C,T8,5.8,Day 6,Expt,Carbohydrates,13834168.01
+D8,S/D,D,T8,5.8,Day 6,Expt,Carbohydrates,9176572.265
+E8,D/S,E,T8,5.8,Day 6,Expt,Carbohydrates,9461187.152
+F8,D/S,F,T8,5.8,Day 6,Expt,Carbohydrates,9859218.864
+A13,S/S,A,T13,20.84,Day 21,Expt,Carbohydrates,5595073.55
+B13,S/S,B,T13,20.84,Day 21,Expt,Carbohydrates,5736352.92
+C13,S/D,C,T13,20.84,Day 21,Expt,Carbohydrates,31858310.04
+D13,S/D,D,T13,20.84,Day 21,Expt,Carbohydrates,6490128.034
+E13,D/S,E,T13,20.84,Day 21,Expt,Carbohydrates,6643989.289
+F13,D/S,F,T13,20.84,Day 21,Expt,Carbohydrates,20301227.56
+Deep 1,S/D,Deep,T0,0,Day 0,Expt,Condensed Hydrocarbon,280680081.1
+Deep 2,D/S,Deep,T0,0,Day 0,Expt,Condensed Hydrocarbon,323774228.5
+Deep 3,S/D,Deep,T0,0,Day 0,Expt,Condensed Hydrocarbon,502268514.8
+Surface 1,S/S,Surface,T0,0,Day 0,Expt,Condensed Hydrocarbon,209205792.9
+Surface 3,S/S,Surface,T0,0,Day 0,Expt,Condensed Hydrocarbon,366229272.3
+A8,S/S,A,T8,5.8,Day 6,Expt,Condensed Hydrocarbon,945011579.6
+B8,S/S,B,T8,5.8,Day 6,Expt,Condensed Hydrocarbon,655287624
+C8,S/D,C,T8,5.8,Day 6,Expt,Condensed Hydrocarbon,573589530.8
+D8,S/D,D,T8,5.8,Day 6,Expt,Condensed Hydrocarbon,825084855.2
+E8,D/S,E,T8,5.8,Day 6,Expt,Condensed Hydrocarbon,600336082.1
+F8,D/S,F,T8,5.8,Day 6,Expt,Condensed Hydrocarbon,596004823.6
+A13,S/S,A,T13,20.84,Day 21,Expt,Condensed Hydrocarbon,728764206.4
+B13,S/S,B,T13,20.84,Day 21,Expt,Condensed Hydrocarbon,591382403.7
+C13,S/D,C,T13,20.84,Day 21,Expt,Condensed Hydrocarbon,757427404.2
+D13,S/D,D,T13,20.84,Day 21,Expt,Condensed Hydrocarbon,513330102.9
+E13,D/S,E,T13,20.84,Day 21,Expt,Condensed Hydrocarbon,377047764.6
+F13,D/S,F,T13,20.84,Day 21,Expt,Condensed Hydrocarbon,420195009
+Deep 1,S/D,Deep,T0,0,Day 0,Expt,CRAM,438111762.1
+Deep 2,D/S,Deep,T0,0,Day 0,Expt,CRAM,445111615.2
+Deep 3,S/D,Deep,T0,0,Day 0,Expt,CRAM,595687876.6
+Surface 1,S/S,Surface,T0,0,Day 0,Expt,CRAM,405065785.7
+Surface 3,S/S,Surface,T0,0,Day 0,Expt,CRAM,436073867.1
+A8,S/S,A,T8,5.8,Day 6,Expt,CRAM,855643335.7
+B8,S/S,B,T8,5.8,Day 6,Expt,CRAM,657867668
+C8,S/D,C,T8,5.8,Day 6,Expt,CRAM,725659336.7
+D8,S/D,D,T8,5.8,Day 6,Expt,CRAM,732269315.8
+E8,D/S,E,T8,5.8,Day 6,Expt,CRAM,669241318
+F8,D/S,F,T8,5.8,Day 6,Expt,CRAM,772592421.5
+A13,S/S,A,T13,20.84,Day 21,Expt,CRAM,691401880
+B13,S/S,B,T13,20.84,Day 21,Expt,CRAM,721576639.8
+C13,S/D,C,T13,20.84,Day 21,Expt,CRAM,729724552.2
+D13,S/D,D,T13,20.84,Day 21,Expt,CRAM,645954406.4
+E13,D/S,E,T13,20.84,Day 21,Expt,CRAM,561781492.6
+F13,D/S,F,T13,20.84,Day 21,Expt,CRAM,273519681.5
+Deep 1,S/D,Deep,T0,0,Day 0,Expt,Highly Unsaturated,685502049.9
+Deep 2,D/S,Deep,T0,0,Day 0,Expt,Highly Unsaturated,745157466.7
+Deep 3,S/D,Deep,T0,0,Day 0,Expt,Highly Unsaturated,1022691654
+Surface 1,S/S,Surface,T0,0,Day 0,Expt,Highly Unsaturated,611463847.7
+Surface 3,S/S,Surface,T0,0,Day 0,Expt,Highly Unsaturated,810971193.7
+A8,S/S,A,T8,5.8,Day 6,Expt,Highly Unsaturated,1422685499
+B8,S/S,B,T8,5.8,Day 6,Expt,Highly Unsaturated,1173388999
+C8,S/D,C,T8,5.8,Day 6,Expt,Highly Unsaturated,926591269.3
+D8,S/D,D,T8,5.8,Day 6,Expt,Highly Unsaturated,1611374287
+E8,D/S,E,T8,5.8,Day 6,Expt,Highly Unsaturated,959659247.4
+F8,D/S,F,T8,5.8,Day 6,Expt,Highly Unsaturated,1057961489
+A13,S/S,A,T13,20.84,Day 21,Expt,Highly Unsaturated,880169719.2
+B13,S/S,B,T13,20.84,Day 21,Expt,Highly Unsaturated,820904772.8
+C13,S/D,C,T13,20.84,Day 21,Expt,Highly Unsaturated,990076529.6
+D13,S/D,D,T13,20.84,Day 21,Expt,Highly Unsaturated,560623212.2
+E13,D/S,E,T13,20.84,Day 21,Expt,Highly Unsaturated,615087774.6
+F13,D/S,F,T13,20.84,Day 21,Expt,Highly Unsaturated,664613828.1
+Deep 1,S/D,Deep,T0,0,Day 0,Expt,Lignin,186144059.1
+Deep 2,D/S,Deep,T0,0,Day 0,Expt,Lignin,187079242.8
+Deep 3,S/D,Deep,T0,0,Day 0,Expt,Lignin,175938601.5
+Surface 1,S/S,Surface,T0,0,Day 0,Expt,Lignin,165800122.2
+Surface 3,S/S,Surface,T0,0,Day 0,Expt,Lignin,166547789.6
+A8,S/S,A,T8,5.8,Day 6,Expt,Lignin,117445670.4
+B8,S/S,B,T8,5.8,Day 6,Expt,Lignin,112312598.7
+C8,S/D,C,T8,5.8,Day 6,Expt,Lignin,99139814.89
+D8,S/D,D,T8,5.8,Day 6,Expt,Lignin,131262073.8
+E8,D/S,E,T8,5.8,Day 6,Expt,Lignin,96575915.53
+F8,D/S,F,T8,5.8,Day 6,Expt,Lignin,97543428.22
+A13,S/S,A,T13,20.84,Day 21,Expt,Lignin,100654416.3
+B13,S/S,B,T13,20.84,Day 21,Expt,Lignin,98918459.65
+C13,S/D,C,T13,20.84,Day 21,Expt,Lignin,93501759.77
+D13,S/D,D,T13,20.84,Day 21,Expt,Lignin,90642929.03
+E13,D/S,E,T13,20.84,Day 21,Expt,Lignin,86089433.14
+F13,D/S,F,T13,20.84,Day 21,Expt,Lignin,83408452.23
+Deep 1,S/D,Deep,T0,0,Day 0,Expt,Lipid,4389061.126
+Deep 2,D/S,Deep,T0,0,Day 0,Expt,Lipid,4152838.289
+Deep 3,S/D,Deep,T0,0,Day 0,Expt,Lipid,5746899.861
+Surface 1,S/S,Surface,T0,0,Day 0,Expt,Lipid,6112173.361
+Surface 3,S/S,Surface,T0,0,Day 0,Expt,Lipid,4787061.54
+A8,S/S,A,T8,5.8,Day 6,Expt,Lipid,33225329.38
+B8,S/S,B,T8,5.8,Day 6,Expt,Lipid,34109702.3
+C8,S/D,C,T8,5.8,Day 6,Expt,Lipid,9807375.081
+D8,S/D,D,T8,5.8,Day 6,Expt,Lipid,36874576.83
+E8,D/S,E,T8,5.8,Day 6,Expt,Lipid,22168300.13
+F8,D/S,F,T8,5.8,Day 6,Expt,Lipid,24544531.18
+A13,S/S,A,T13,20.84,Day 21,Expt,Lipid,9250998.968
+B13,S/S,B,T13,20.84,Day 21,Expt,Lipid,7898456.509
+C13,S/D,C,T13,20.84,Day 21,Expt,Lipid,5661814.087
+D13,S/D,D,T13,20.84,Day 21,Expt,Lipid,5212845.533
+E13,D/S,E,T13,20.84,Day 21,Expt,Lipid,14237776.93
+F13,D/S,F,T13,20.84,Day 21,Expt,Lipid,7396418.568
+Deep 1,S/D,Deep,T0,0,Day 0,Expt,Peptides,106489881.3
+Deep 2,D/S,Deep,T0,0,Day 0,Expt,Peptides,88551160.18
+Deep 3,S/D,Deep,T0,0,Day 0,Expt,Peptides,168666891.4
+Surface 1,S/S,Surface,T0,0,Day 0,Expt,Peptides,88443896.48
+Surface 3,S/S,Surface,T0,0,Day 0,Expt,Peptides,101217312.1
+A8,S/S,A,T8,5.8,Day 6,Expt,Peptides,1144602292
+B8,S/S,B,T8,5.8,Day 6,Expt,Peptides,651274286.5
+C8,S/D,C,T8,5.8,Day 6,Expt,Peptides,189888755.8
+D8,S/D,D,T8,5.8,Day 6,Expt,Peptides,1142376075
+E8,D/S,E,T8,5.8,Day 6,Expt,Peptides,425083254.4
+F8,D/S,F,T8,5.8,Day 6,Expt,Peptides,543608737.3
+A13,S/S,A,T13,20.84,Day 21,Expt,Peptides,137200595.5
+B13,S/S,B,T13,20.84,Day 21,Expt,Peptides,139900270.4
+C13,S/D,C,T13,20.84,Day 21,Expt,Peptides,183818847.7
+D13,S/D,D,T13,20.84,Day 21,Expt,Peptides,68494909.98
+E13,D/S,E,T13,20.84,Day 21,Expt,Peptides,343533340.7
+F13,D/S,F,T13,20.84,Day 21,Expt,Peptides,172175708.9
+Deep 1,S/D,Deep,T0,0,Day 0,Expt,Polyphenols,139578040.1
+Deep 2,D/S,Deep,T0,0,Day 0,Expt,Polyphenols,168797064.6
+Deep 3,S/D,Deep,T0,0,Day 0,Expt,Polyphenols,216035281.4
+Surface 1,S/S,Surface,T0,0,Day 0,Expt,Polyphenols,101332322.7
+Surface 3,S/S,Surface,T0,0,Day 0,Expt,Polyphenols,114512483.1
+A8,S/S,A,T8,5.8,Day 6,Expt,Polyphenols,893097315.5
+B8,S/S,B,T8,5.8,Day 6,Expt,Polyphenols,627937617.6
+C8,S/D,C,T8,5.8,Day 6,Expt,Polyphenols,731650653.8
+D8,S/D,D,T8,5.8,Day 6,Expt,Polyphenols,702921072.5
+E8,D/S,E,T8,5.8,Day 6,Expt,Polyphenols,649612379.8
+F8,D/S,F,T8,5.8,Day 6,Expt,Polyphenols,672823901.2
+A13,S/S,A,T13,20.84,Day 21,Expt,Polyphenols,702636453.7
+B13,S/S,B,T13,20.84,Day 21,Expt,Polyphenols,668494360.9
+C13,S/D,C,T13,20.84,Day 21,Expt,Polyphenols,751360199.7
+D13,S/D,D,T13,20.84,Day 21,Expt,Polyphenols,630699069.2
+E13,D/S,E,T13,20.84,Day 21,Expt,Polyphenols,582157902.4
+F13,D/S,F,T13,20.84,Day 21,Expt,Polyphenols,383000135.9
+Deep 1,S/D,Deep,T0,0,Day 0,Expt,Protein,154833564
+Deep 2,D/S,Deep,T0,0,Day 0,Expt,Protein,160429478.5
+Deep 3,S/D,Deep,T0,0,Day 0,Expt,Protein,250545337.7
+Surface 1,S/S,Surface,T0,0,Day 0,Expt,Protein,142654414.3
+Surface 3,S/S,Surface,T0,0,Day 0,Expt,Protein,138277412.8
+A8,S/S,A,T8,5.8,Day 6,Expt,Protein,432288658.3
+B8,S/S,B,T8,5.8,Day 6,Expt,Protein,274905603.8
+C8,S/D,C,T8,5.8,Day 6,Expt,Protein,168014928.4
+D8,S/D,D,T8,5.8,Day 6,Expt,Protein,501257104.7
+E8,D/S,E,T8,5.8,Day 6,Expt,Protein,283207427
+F8,D/S,F,T8,5.8,Day 6,Expt,Protein,407975490.2
+A13,S/S,A,T13,20.84,Day 21,Expt,Protein,248820095.6
+B13,S/S,B,T13,20.84,Day 21,Expt,Protein,247819851
+C13,S/D,C,T13,20.84,Day 21,Expt,Protein,286361203.1
+D13,S/D,D,T13,20.84,Day 21,Expt,Protein,154089878.2
+E13,D/S,E,T13,20.84,Day 21,Expt,Protein,165463963.7
+F13,D/S,F,T13,20.84,Day 21,Expt,Protein,140811809.5
+Deep 1,S/D,Deep,T0,0,Day 0,Expt,Saturated Fatty Acids,26421787.65
+Deep 2,D/S,Deep,T0,0,Day 0,Expt,Saturated Fatty Acids,27741483.53
+Deep 3,S/D,Deep,T0,0,Day 0,Expt,Saturated Fatty Acids,34365714.4
+Surface 1,S/S,Surface,T0,0,Day 0,Expt,Saturated Fatty Acids,21305991.95
+Surface 3,S/S,Surface,T0,0,Day 0,Expt,Saturated Fatty Acids,28754972.28
+A8,S/S,A,T8,5.8,Day 6,Expt,Saturated Fatty Acids,492230822.6
+B8,S/S,B,T8,5.8,Day 6,Expt,Saturated Fatty Acids,343981745.1
+C8,S/D,C,T8,5.8,Day 6,Expt,Saturated Fatty Acids,242095738.6
+D8,S/D,D,T8,5.8,Day 6,Expt,Saturated Fatty Acids,545159805.7
+E8,D/S,E,T8,5.8,Day 6,Expt,Saturated Fatty Acids,332290284.1
+F8,D/S,F,T8,5.8,Day 6,Expt,Saturated Fatty Acids,388042883.3
+A13,S/S,A,T13,20.84,Day 21,Expt,Saturated Fatty Acids,261491871
+B13,S/S,B,T13,20.84,Day 21,Expt,Saturated Fatty Acids,235035714.9
+C13,S/D,C,T13,20.84,Day 21,Expt,Saturated Fatty Acids,287315164.1
+D13,S/D,D,T13,20.84,Day 21,Expt,Saturated Fatty Acids,200416313.1
+E13,D/S,E,T13,20.84,Day 21,Expt,Saturated Fatty Acids,253132907
+F13,D/S,F,T13,20.84,Day 21,Expt,Saturated Fatty Acids,243258371.7
+Deep 1,S/D,Deep,T0,0,Day 0,Expt,Sugars,334105701.2
+Deep 2,D/S,Deep,T0,0,Day 0,Expt,Sugars,304768338.3
+Deep 3,S/D,Deep,T0,0,Day 0,Expt,Sugars,458447542.7
+Surface 1,S/S,Surface,T0,0,Day 0,Expt,Sugars,310425789.5
+Surface 3,S/S,Surface,T0,0,Day 0,Expt,Sugars,163918762.9
+A8,S/S,A,T8,5.8,Day 6,Expt,Sugars,1747920585
+B8,S/S,B,T8,5.8,Day 6,Expt,Sugars,685734396.4
+C8,S/D,C,T8,5.8,Day 6,Expt,Sugars,880854595.3
+D8,S/D,D,T8,5.8,Day 6,Expt,Sugars,896530256.3
+E8,D/S,E,T8,5.8,Day 6,Expt,Sugars,887739541.1
+F8,D/S,F,T8,5.8,Day 6,Expt,Sugars,932764453.4
+A13,S/S,A,T13,20.84,Day 21,Expt,Sugars,1783776222
+B13,S/S,B,T13,20.84,Day 21,Expt,Sugars,1135534642
+C13,S/D,C,T13,20.84,Day 21,Expt,Sugars,1088573006
+D13,S/D,D,T13,20.84,Day 21,Expt,Sugars,1021077156
+E13,D/S,E,T13,20.84,Day 21,Expt,Sugars,798312257.5
+F13,D/S,F,T13,20.84,Day 21,Expt,Sugars,768521604.7
+Deep 1,S/D,Deep,T0,0,Day 0,Expt,Unsaturated Aliphatic,137219220.5
+Deep 2,D/S,Deep,T0,0,Day 0,Expt,Unsaturated Aliphatic,142814531.8
+Deep 3,S/D,Deep,T0,0,Day 0,Expt,Unsaturated Aliphatic,193787248.6
+Surface 1,S/S,Surface,T0,0,Day 0,Expt,Unsaturated Aliphatic,115294256.7
+Surface 3,S/S,Surface,T0,0,Day 0,Expt,Unsaturated Aliphatic,118287892.2
+A8,S/S,A,T8,5.8,Day 6,Expt,Unsaturated Aliphatic,549849365.3
+B8,S/S,B,T8,5.8,Day 6,Expt,Unsaturated Aliphatic,367487848.2
+C8,S/D,C,T8,5.8,Day 6,Expt,Unsaturated Aliphatic,189084348.8
+D8,S/D,D,T8,5.8,Day 6,Expt,Unsaturated Aliphatic,567307029.6
+E8,D/S,E,T8,5.8,Day 6,Expt,Unsaturated Aliphatic,351007723.2
+F8,D/S,F,T8,5.8,Day 6,Expt,Unsaturated Aliphatic,424430973
+A13,S/S,A,T13,20.84,Day 21,Expt,Unsaturated Aliphatic,224562426.9
+B13,S/S,B,T13,20.84,Day 21,Expt,Unsaturated Aliphatic,208977428.2
+C13,S/D,C,T13,20.84,Day 21,Expt,Unsaturated Aliphatic,275519806.9
+D13,S/D,D,T13,20.84,Day 21,Expt,Unsaturated Aliphatic,124434462.7
+E13,D/S,E,T13,20.84,Day 21,Expt,Unsaturated Aliphatic,291749224
+F13,D/S,F,T13,20.84,Day 21,Expt,Unsaturated Aliphatic,236102013.3
