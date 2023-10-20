@@ -1,4 +1,4 @@
-## Code writen in 2023 by Rachel Parsons with assistance from Simon Biggs
+## Code written in 2023 by Rachel Parsons with assistance from Simon Biggs
 
 library(tidyverse)
 library(ggplot2)
