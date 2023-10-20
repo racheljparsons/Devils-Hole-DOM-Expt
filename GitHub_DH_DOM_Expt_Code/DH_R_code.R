@@ -1,3 +1,6 @@
+## Code written by Ben temperton, Exeter University (2018) and Luis Bolanos, Exeter University (2022) and modified by Rachel Parsons, BIOS
+
+
 library(dada2)
 library(ShortRead)
 library(Biostrings)
