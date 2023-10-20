@@ -1,3 +1,5 @@
+## Code writen in 2023 by Rachel Parsons
+
 # Load required libraries
 library(tidyr)
 library(stats)
