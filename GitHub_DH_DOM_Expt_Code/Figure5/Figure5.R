@@ -1,3 +1,5 @@
+## Original code written by Shuting Liu and modified in 2023 by Rachel Parsons with assistance from Simon Biggs
+
 library(tidyverse)
 library(phyloseq)
 library(readr)
