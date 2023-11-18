@@ -1,5 +1,3 @@
-## Code writen in 2023 by Rachel Parsons with assistance from Simon Biggs
-
 library(tidyverse)
 library(ggplot2)
 library(ggtext)
@@ -19,7 +17,7 @@ ammonium.graph <- ggplot(line, aes(x=Day, y=Ammonium))  +
   geom_point(aes(colour=Treatment), size=3) +
   geom_line(data=line[!is.na(line$Ammonium),],aes(colour=Treatment), linewidth=1) +
   geom_errorbar(aes(ymin=Ammonium-NH4_SD, ymax=Ammonium+NH4_SD, colour=Treatment), width=0.5) +
-  labs(x="Days", y=expression("Ammonium µmol L"^-1), colour = "Treatment") + # use expression() then text in "", ^ to start superscript then the brackets close superscript function as no more text in Y label.
+  labs(x="Days", y=expression("Total Ammonium µmol L"^-1), colour = "Treatment") + # use expression() then text in "", ^ to start superscript then the brackets close superscript function as no more text in Y label.
   ggtitle("A)") +
   theme_classic() +
   scale_color_manual(values=c("dodgerblue3", "mediumseagreen", "orangered")) +
